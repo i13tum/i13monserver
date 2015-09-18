@@ -1,0 +1,12 @@
+#deviceid,device namespace
+16fd2706-8baf-433b-82eb-XXXXXX,i13mon.smart_kitchen.rfmpi.
+fbd2448d-9103-44b2-b3c8-XXXXXX,i13mon.anwar_room.temphum.
+7eb124b1-3e3a-4361-9aaf-XXXXXX,i13mon.arash_room.temphum.
+d9367a07-7f58-43ef-a6da-XXXXXX,i13mon.christoph_room.temphum.
+98a0c5a3-0b0e-4706-b824-XXXXXX,i13mon.christoph_room.temphum.
+00:13:A2:00:40:9C:XX:XX,i13mon.smart_kitchen.Dish_washer.
+00:13:A2:00:40:9C:XX:XX,i13mon.smart_kitchen.Boiler.
+00:13:A2:00:40:9C:XX:XX,i13mon.smart_kitchen.Electric_kettle.
+00:13:A2:00:40:9C:XX:XX,i13mon.smart_kitchen.Microwave.
+00:13:A2:00:40:9C:XX:XX,i13mon.smart_kitchen.Coffee_maker.
+00:13:A2:00:40:9C:XX:XX,i13mon.smart_kitchen.Main_consumption.
